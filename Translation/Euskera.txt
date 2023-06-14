@@ -1,0 +1,24 @@
+Español: Gaztelania
+Ingles: Ingelesa
+Catalan: katalana
+Euskera: Euskera
+null: 
+ERROR EN LA COMPRA: EROSKETA ERROREA
+En total son: Guztira dira
+Inserta la tarjeta: Sartu txartela
+Cancelar: Utzi
+Volver al inicio: Itzuli gora
+Escoge un asiento: Aukeratu eserlekua
+Palco1: Kutxa1
+Palco2: Kutxa2
+Anfiteatro1: Anfiteatroa1
+Anfiteatro2: Anfiteatroa2
+Platea: Orkestra
+Seleccione dia de representacion: Hautatu emanaldiaren eguna
+Bienvenido al teatro Alfil:Ongi etorri Bishop Antzokira
+Escoge un idioma: Aukeratu hizkuntza bat
+Seleccion de idioma:Hizkuntza aukeraketa
+Comprar entradas: Erosi sarrerak
+Escoge un area: Aukeratu eremu bat
+El Rey Leon: Lehoi Erregea
+Producido por Stage Entertainment, El Rey León es la mayor producción musical jamás representada en España. Apto para toda la familia, es una experiencia única que atrapa de principio a fin y que, tal y como ya han hecho más de 100 millones de personas en todo el mundo, hay que vivir, al menos, una vez en la vida. Por su espectacularidad, por su belleza, por la emoción que es capaz de transmitir...:Stage Entertainment-ek ekoiztua, El Rey León Espainian inoiz egin den musika ekoizpen handiena da. Familia osoarentzako aproposa, hasieratik amaierara liluratzen duen esperientzia paregabea da eta munduan zehar 100 milioi pertsonak baino gehiagok egin duten bezala, bizitzan gutxienez behin bizi behar dena. Bere ikusgarritasunagatik, bere edertasunagatik, transmititzeko gai den emozioagatik...

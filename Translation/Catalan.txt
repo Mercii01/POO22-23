@@ -1,0 +1,24 @@
+Español: Espanyol
+Ingles: Anglès
+Catalan: Català
+Euskera: Euskera
+null: 
+ERROR EN LA COMPRA: ERROR A LA COMPRA
+En total son: En total són
+Inserta la tarjeta: Insereix la targeta
+Cancelar: Cancel·la
+Volver al inicio: Tornar a l'inici
+Escoge un asiento: Escull un seient
+Palco1: Llotja1
+Palco2: Llotja2
+Anfiteatro1: Amfiteatre1
+Anfiteatro2: Amfiteatre2
+Platea: Platea
+Seleccione dia de representacion: Seleccioneu dia de representacio
+Bienvenido al teatro Alfil:Benvingut al teatre Alfil
+Escoge un idioma: Escull un idioma
+Seleccion de idioma:Selecció d'idioma
+Comprar entradas: Comprar Entrades
+Escoge un area: Escull una àrea
+El Rey Leon: El Rei Lleó
+Producido por Stage Entertainment, El Rey León es la mayor producción musical jamás representada en España. Apto para toda la familia, es una experiencia única que atrapa de principio a fin y que, tal y como ya han hecho más de 100 millones de personas en todo el mundo, hay que vivir, al menos, una vez en la vida. Por su espectacularidad, por su belleza, por la emoción que es capaz de transmitir...:Produït per Stage Entertainment, El Rey León és la major producció musical mai representada a Espanya. Apte per a tota la família, és una experiència única que atrapa de principi a fi i que, tal com ja han fet més de 100 milions de persones a tot el món, cal viure, almenys, una vegada a la vida. Per la seva espectacularitat, per la seva bellesa, per l'emoció que és capaç de...

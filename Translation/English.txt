@@ -1,0 +1,24 @@
+Español: Spanish
+Ingles: English
+Catalan: Catalan
+Euskera: Basque
+null: 
+ERROR EN LA COMPRA: ERROR WITH PAYMENT
+En total son: Your total will be
+Inserta la tarjeta: Insert card
+Cancelar: Cancel
+Volver al inicio: Go to main menu
+Escoge un asiento: Select your seats
+Palco1: Box1
+Palco2: Box2
+Anfiteatro1: Amphitheatre1
+Anfiteatro2: Amphitheatre2
+Platea: Main floor
+Seleccione dia de representacion: Select day for presentation
+Bienvenido al teatro Alfil:Welcome to Alfil theater
+Escoge un idioma: Change language
+Seleccion de idioma:Select Language
+Comprar entradas: Buy tickets
+Escoge un area: Select an area
+El Rey Leon: The Lion King
+Producido por Stage Entertainment, El Rey León es la mayor producción musical jamás representada en España. Apto para toda la familia, es una experiencia única que atrapa de principio a fin y que, tal y como ya han hecho más de 100 millones de personas en todo el mundo, hay que vivir, al menos, una vez en la vida. Por su espectacularidad, por su belleza, por la emoción que es capaz de transmitir...:Produced by Stage Entertainment, The Lion King is the biggest musical production ever presented in Spain. For all ages,its a unique expierence from start to end. Like 100 million people in  the world has said, ou have to try it at least once...
